@@ -15,7 +15,7 @@ const normalizePORT = (val) => {
   return false;
 };
 
-const port = normalizePORT(process.env.PORT || "3000");
+const port = normalizePORT(process.env.PORT || "5000");
 app.set("port", port);
 
 //errorHandler gère les erreurs de serveur, comme les erreurs de port déjà utilisé ou de permissions
