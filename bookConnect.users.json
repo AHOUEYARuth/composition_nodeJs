@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "685529af67bfd5c608c0b9b0"
+  },
+  "nom": "spencer",
+  "email": "spencer@gmail.com",
+  "motDePasse": "spencer10",
+  "dateInscription": "2025-02-10"
+},
+{
+  "_id": {
+    "$oid": "68554172978748bce30502b7"
+  },
+  "nom": "alida",
+  "email": "alida@gmail.com",
+  "motDePasse": "$2b$10$YMhePdM15pJ7EDT6gYWDy.D4HMfFKa0K8HmaT4NxbrB3T3z./Bk9e",
+  "dateInscription": {
+    "$date": "2025-05-14T00:00:00.000Z"
+  },
+  "__v": 0
+}]

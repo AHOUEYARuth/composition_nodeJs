@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "68553d71c4ced324e4afa10f"
+  },
+  "titre": "un piège sans fin",
+  "categorie": "roman",
+  "annee": 2000,
+  "userId": {
+    "$oid": "685529af67bfd5c608c0b9b0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68553d9dc4ced324e4afa111"
+  },
+  "titre": "l'arbre fétiche",
+  "categorie": "roman",
+  "annee": 2000,
+  "userId": {
+    "$oid": "685529af67bfd5c608c0b9b0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68553db7c4ced324e4afa113"
+  },
+  "titre": "père riche père  pauvre",
+  "categorie": "roman",
+  "annee": 2000,
+  "userId": {
+    "$oid": "685529af67bfd5c608c0b9b0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68553e06c4ced324e4afa115"
+  },
+  "titre": "M paul",
+  "categorie": "poésie",
+  "annee": 2025,
+  "userId": {
+    "$oid": "685529af67bfd5c608c0b9b0"
+  },
+  "__v": 0
+}]
